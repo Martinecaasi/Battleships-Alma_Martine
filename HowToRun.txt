@@ -1,0 +1,9 @@
+Hi 
+
+Run In The Terminal-
+
+g++ -std=c++11 -o battleship main.cpp Game.cpp AiPlayer.cpp HumanPlayer.cpp Player.cpp Ship.cpp Grid.cpp
+
+And Also-
+
+./battleship      
